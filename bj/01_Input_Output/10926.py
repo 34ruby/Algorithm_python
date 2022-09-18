@@ -1,0 +1,3 @@
+inputMyName = input()
+
+print(inputMyName + '??!')
